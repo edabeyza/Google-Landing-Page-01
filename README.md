@@ -1,19 +1,15 @@
-## Project-003 :Google Landing Page 
+## Project-003: Google Landing Page 
 
 ## Description
 Project aims to create google landing page.
-
-## Problem Statement
-
-- Your company has recently started on a project that aims to create a landing page. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton 
 
 ```
 002-google-landing-page (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Definition of the project)   
+|----readme.md                  
+|----images               
         |----appicon.png   
         |----gfavicon.png
 		|----google_microphone.png
@@ -30,11 +26,14 @@ Project aims to create google landing page.
 
 Build a Landing that is functionally similar to this: [Google Landing Page](https://aaron-clarusway.github.io/google-landing--page/)
 
-### At the end of the project, following topics are to be covered;
+## The Outcome
 
-## Notes
+<img width="956" alt="Ekran görüntüsü 2023-03-28 005657" src="https://user-images.githubusercontent.com/72518776/228076213-ecb2a683-5552-459b-81a9-8df55416694e.png">
 
-- You can use HTML, and CSS to complete this project.
+## Technologies and Tools
+
+- HTML
+- CSS 
 
 ## Resources
 
