@@ -30,6 +30,10 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 
 <img width="956" alt="Ekran görüntüsü 2023-03-28 005657" src="https://user-images.githubusercontent.com/72518776/228076213-ecb2a683-5552-459b-81a9-8df55416694e.png">
 
+## Project Link
+
+https://google-landing-page-01.netlify.app/
+
 ## Technologies and Tools
 
 - HTML
